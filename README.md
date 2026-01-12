@@ -41,9 +41,7 @@ A modern, responsive paste management application built with React, Redux Toolki
 - **ESLint 9.39.1** - Linting utility for JavaScript and JSX
 - **TypeScript Types** - Type definitions for React and React DOM
 
-## Deploy Link
-
--- **URL: paste-app-iota-beige.vercel.app
+### 🚀 [Live Demo: paste-app-iota-beige.vercel.app](https://paste-app-iota-beige.vercel.app)
 
 ## Installation
 
